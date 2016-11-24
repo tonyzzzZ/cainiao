@@ -1,0 +1,11 @@
+{
+"pano":[
+{ "coordinate":"100,100" , "url":"pano11.png" }, 
+{ "coordinate":"100,101" , "url":"pano12.png" }, 
+{ "coordinate":"100,102" , "url":"pano13.png" }
+],
+"item":[
+{}
+]
+}
+
